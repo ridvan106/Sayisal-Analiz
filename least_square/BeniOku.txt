@@ -1,0 +1,6 @@
+Kitaptaki genelleştirilmiş formul kullanıldı ve oluşan matrix sonucu Gauss ile çözüldü
+2 çeşit çalışma yolu var ilk sadece tek boyutlu array gondermek budurumda indis degerleri
+arrayin indisi olarak kabul edilir.
+2.durum ise 2 boyutlu array gondermek bu durumda 0.indis fonksyon indiskeri 1.indis
+ise o indisklerin fonksyon degerleri olarak kabul edilir.
+ekrana oluşan fonksyon yazılır ve hesaplanacak deger istenir.

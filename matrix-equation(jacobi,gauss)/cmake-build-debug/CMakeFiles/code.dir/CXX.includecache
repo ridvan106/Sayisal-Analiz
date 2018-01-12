@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oem/Desktop/sayısal Analiz/ödevler/2/code/main.cpp
+iostream
+-
+istream
+-
+fstream
+-
+vector
+-
+cmath
+-
+cstring
+-
+

@@ -1,0 +1,4 @@
+Hocam eklenecek olan matrix matrix.txt dosyasına eklenmeli
+methodlar hazır command Line şeklinde
+
+makeFile ile direk sonucları gorebilirsiniz
